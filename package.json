@@ -1,0 +1,12 @@
+{
+	"name": "fsi-vfs",
+	"description": "fsi implementation for vfs interfaces",
+	"author": "Felix Boehm <me@feedic.com>",
+	"version": "0.0.0",
+	"main": "index.js",
+	"dependencies": {
+		"mirrorstream": "0",
+		"delayedstream": "0",
+		"fsi": "0"
+	}
+}
